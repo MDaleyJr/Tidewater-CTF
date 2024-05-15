@@ -1,7 +1,7 @@
 ![wp](https://github.com/MDaleyJr/Files/blob/main/Wallpaper.png)
 
 ## Download the apk and unzip it
-## Then use strings function combined with grep to grab anything starting with MetaCTF
+## Then use strings function combined with grep to grab anything with MetaCTF
 
 ![wp2](https://github.com/MDaleyJr/Files/blob/main/Wallpaper2.png)
 
