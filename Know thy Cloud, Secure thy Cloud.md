@@ -7,6 +7,6 @@
 ## there is a file called flag.txt; use wget <website><filename> to get file
 ## then cat the file for the flag
 
-![ktc3](https://github.com/MDaleyJr/Files/blob/main/Know%20thy%20cloud%2C%20Secure%20thy%20cloud3.png)
+![ktc3](https://github.com/MDaleyJr/Files/blob/main/Know%20thy%20cloud%2C%20Secure%20thy%20cloud3a.png)
 
 ## Answer: MetaCTF{know_thy_flag_SCORE_THY_POINTS} 
