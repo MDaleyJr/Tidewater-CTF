@@ -3,7 +3,7 @@
 ## Download the apk and unzip it
 ## Then use strings function combined with grep to grab anything with MetaCTF
 
-![wp2](https://github.com/MDaleyJr/Files/blob/main/Wallpaper2.png)
+![wp2](https://github.com/MDaleyJr/Files/blob/main/Wallpaper2a.png)
 
 ## Follow that path: res/drawable/wallpaper.jpg open the pic and its has the flag written in the pic
 
